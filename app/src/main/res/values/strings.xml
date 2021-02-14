@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Countapplication</string>
+    <string name="Caa">🎉</string>
+    <string name="Don">🥁</string>
+    <string name="ImageView_Caa">　パッ</string>
+    <string name="ImageView_Don">ドン</string>
+    <string name="textView">タップ</string>
 </resources>
